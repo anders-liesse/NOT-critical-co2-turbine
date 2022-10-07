@@ -1,4 +1,4 @@
-# Micro Hydroelectric Turbine based on a supercritical CO2 Turbine Blade Profile.
+# Micro Hydroelectric Turbine based on a Supercritical CO2 Turbine Blade Profile.
 
 ## Reoptimized in MATLAB using a particle swarm optimization
 
